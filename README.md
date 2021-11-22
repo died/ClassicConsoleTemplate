@@ -6,6 +6,10 @@ This is a temlate give you old school style console project in .NET 6, no need w
 
 Just install VSIX and select Classic Console Template, then enjoy it.
 
+### Download
+Visual Studio Marketplace [Classic Console Template](https://marketplace.visualstudio.com/items?itemName=Doomdied.ClassicConsole1)
+
+
 ![img](https://i.imgur.com/jIrq5HB.png)
 
 ![img](https://i.imgur.com/C2U3ZeU.png)
